@@ -1,4 +1,4 @@
--- Part 4: 6/14/2023
+-- Part 4: 6/14/2024
 
 -- Tables used for practicing
 -- List of Employees Assigned with Departments/Shifts (PK: BusinessEntityID + DepartmentID + ShiftID)
